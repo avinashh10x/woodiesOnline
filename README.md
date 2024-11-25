@@ -29,4 +29,3 @@ Woodies Online is a web-based platform for showcasing and selling premium handma
 ### **Backend**
 - (Optional) Can be integrated with Node.js and MongoDB for dynamic data management.
 
----
